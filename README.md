@@ -16,7 +16,7 @@ The Swish (left) vs ReLU (right) activation landscapes.
 
 The percentage of times that global optima were attained by Swish and ReLU.
 
-| Number of Layers | #1 | #2 |
+| Number of Layers | Swish | ReLU |
 | ------------- |:-------------:| -----:|
 | 1 | 60.39% ± 5.00% | 41.02% ± 4.65% |
 | 2 | 34.82% ± 5.04% | 20.06% ± 3.99% |

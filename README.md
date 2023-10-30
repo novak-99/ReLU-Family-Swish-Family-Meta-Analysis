@@ -21,3 +21,5 @@ The Swish (left) vs ReLU (right) activation landscapes.
 ## Download 
 
 The paper is available to download here. 
+
+[Swish_Fam_vs_ReLU_Fam.pdf](https://github.com/novak-99/ReLU-Family-Swish-Family-Meta-Analysis/files/13199594/Swish_Fam_vs_ReLU_Fam.pdf)

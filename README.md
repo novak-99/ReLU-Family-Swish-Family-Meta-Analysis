@@ -14,12 +14,13 @@ The Swish (left) vs ReLU (right) activation landscapes.
 
 ### Convergence Comparisons
 
-The percentage of times that global optima were attained by Swish and ReLU
+The percentage of times that global optima were attained by Swish and ReLU.
 
-Number of Layers | #1 | #2 
-1 | 60.39% ± 5.00% | 41.02% ± 4.65% 
-2 | 34.82% ± 5.04% | 20.06% ± 3.99% 
-3 | 16.92% ± 3.74% | 8.76% ± 2.46% 
+| Number of Layers | #1 | #2 |
+| ------------- |:-------------:| -----:|
+| 1 | 60.39% ± 5.00% | 41.02% ± 4.65% |
+| 2 | 34.82% ± 5.04% | 20.06% ± 3.99% |
+| 3 | 16.92% ± 3.74% | 8.76% ± 2.46% |
 
 ### Empirical Comparisons (MNIST)
 

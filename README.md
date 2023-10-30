@@ -14,10 +14,26 @@ The Swish (left) vs ReLU (right) activation landscapes.
 
 ### Convergence Comparisons
 
+\begin{table}[H]
+\caption{The percentage of times that global optima were attained by Swish and ReLU.}
+\centering
+\begin{tabular}{|c|c|c|}
+    \hline
+    Number of Layers & Swish & ReLU\\
+    \hline
+     1&  60.39\%\pm5.00\% &  41.02\%\pm4.65\%\\
+     \hline
+     2 & 34.82\%\pm5.04\% & 20.06\%\pm3.99\%\\
+     \hline
+     3 & 16.92\%\pm 3.74\% & 8.76\%\pm 2.46\%\\
+     \hline
+\end{tabular} 
+\end{table}
+
 ### Empirical Comparisons (MNIST)
 
 ![mnist_acc](https://github.com/novak-99/ReLU-Family-Swish-Family-Meta-Analysis/assets/78002988/28496880-d48b-4e76-b79d-98b1bc1f1ae6)
 
 ## Download 
 
-The paper is available to download [here](https://github.com/novak-99/ReLU-Family-Swish-Family-Meta-Analysis/files/13199594/Swish_Fam_vs_ReLU_Fam.pdf). 
+The paper can be downloaded [here](https://github.com/novak-99/ReLU-Family-Swish-Family-Meta-Analysis/files/13199594/Swish_Fam_vs_ReLU_Fam.pdf). 
